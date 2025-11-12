@@ -1,5 +1,5 @@
 function handleClick(){
-   alert: ("i got clicked");
+   alert ("i got clicked");
 
 }
 //Alternatively  document.querySelector('button').addEventListener('click', function(){alert: (“I got clicked”);
